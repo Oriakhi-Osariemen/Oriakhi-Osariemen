@@ -8,6 +8,7 @@
 
  ## About me
 🔎 Skills in SQL, Advance Excel, Power Bi, Python (Pandas, Numpy, Seaborn, bokeh). I specilize in Data analysis, Finance data analysis, Visualization.
+
 📊 I am passionate about learning and developing skills in SQL, AI, Python, Machine Learning 
 
 
