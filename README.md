@@ -1,7 +1,7 @@
  # ## Welcome to my Github
  
 - 👋 Hi, I’m @Oriakhi-Osariemen
-- 👀 I’m interested in Data, Finance, AI
+- 👀 I’m interested in Data, Finance, AI, Product
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Projects, Bigdata, Freelancing, Jobs.
 - 📫 How to reach me osariemenoriakhi@gmail.com
