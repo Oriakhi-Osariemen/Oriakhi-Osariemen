@@ -7,8 +7,9 @@
 - 📫 How to reach me osariemenoriakhi@gmail.com
 
  ## About me
-🔎 Skills in SQL, Advance Excel, Power Bi, Python (Pandas, Numpy, Seaborn, bokeh). I specilize in Data analysis, Finance data analysis, Visualization.
-
+🔎 Skills in SQL, Advance Excel, Power Bi, Python (Pandas, Numpy, Seaborn, bokeh). I specilize in Data analysis, Finance data analysis, Visualization, Product Data Analysis.
+    A/B Testing,  Experiment Design, Success Metrics Definition, CRM Performance. 
+    
 📊 I am passionate about learning and developing skills in SQL, AI, Python, Machine Learning 
 
 
